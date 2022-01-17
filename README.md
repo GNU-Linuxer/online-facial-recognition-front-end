@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Online Facial Recognition Front-end Repository
+
+The **React.js Front-end** for a facial recognition authentication website allowing users log-in their account by taking selfies.
+
+Utilized **TensorFlow machine learning library** on the Back-end server to perform facial recognition.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
